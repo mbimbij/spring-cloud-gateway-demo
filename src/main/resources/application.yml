@@ -1,0 +1,8 @@
+routes:
+  route1: http://httpbin.org
+  route2: https://sherdog.com
+  default-route: https://mvnrepository.com
+
+management:
+  server:
+    port: 8081
